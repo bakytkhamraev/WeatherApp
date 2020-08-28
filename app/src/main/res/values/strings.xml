@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">WeatherApp</string>
     <string name="InfoDay">Sunday, 19 May 2019 | 4:30PM</string>
+
+
+
+    <string-array name="city">
+        <item>Бишкек</item>
+        <item>Лондон</item>
+        <item>Барселона</item>
+        <item>Бавария</item>
+    </string-array>
 </resources>
